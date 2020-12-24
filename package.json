@@ -1,0 +1,12 @@
+{
+  "name": "week4-openedu",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.19.0"
+  },
+  "main": "index.js",
+  "author": "vinnok991",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
