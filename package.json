@@ -1,11 +1,13 @@
 {
-  "name": "week4-openedu",
+  "name": "week4",
   "version": "1.0.0",
   "engines": {
     "node": "10.19.0"
   },
   "main": "index.js",
-  "author": "vinnok991",
+  "repository": "https://github.com/ta1jin/week4.git",
+  "author": "ta1jin",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   }
